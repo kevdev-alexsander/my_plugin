@@ -1,0 +1,14 @@
+{
+  "id": "myPlugin",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "Kevin Alexsander",
+    "githubTeam": ""
+  },
+  "description": "My first plugin custom for kibana.",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}

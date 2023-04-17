@@ -1,0 +1,28 @@
+[
+  {
+    "group": "@kbn/optimizer bundle module count",
+    "id": "myPlugin",
+    "value": 15
+  },
+  {
+    "group": "page load bundle size",
+    "id": "myPlugin",
+    "value": 36774,
+    "limitConfigPath": "node_modules/@kbn/optimizer/limits.yml"
+  },
+  {
+    "group": "async chunks size",
+    "id": "myPlugin",
+    "value": 8825
+  },
+  {
+    "group": "async chunk count",
+    "id": "myPlugin",
+    "value": 1
+  },
+  {
+    "group": "miscellaneous assets size",
+    "id": "myPlugin",
+    "value": 0
+  }
+]
